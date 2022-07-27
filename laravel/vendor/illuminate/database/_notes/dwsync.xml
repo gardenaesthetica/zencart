@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassMorphViolationException.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612110000000" Dst="2" />
+<file name="composer.json" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034612110000000" Dst="2" />
+<file name="ConfigurationUrlParser.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612140000000" Dst="2" />
+<file name="Connection.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612140000000" Dst="2" />
+<file name="ConnectionInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612140000000" Dst="2" />
+<file name="ConnectionResolver.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612140000000" Dst="2" />
+<file name="ConnectionResolverInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612150000000" Dst="2" />
+<file name="DatabaseManager.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612300000000" Dst="2" />
+<file name="DatabaseServiceProvider.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612300000000" Dst="2" />
+<file name="DatabaseTransactionRecord.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612300000000" Dst="2" />
+<file name="DatabaseTransactionsManager.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612310000000" Dst="2" />
+<file name="DetectsConcurrencyErrors.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612320000000" Dst="2" />
+<file name="DetectsLostConnections.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612330000000" Dst="2" />
+<file name="Grammar.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612610000000" Dst="2" />
+<file name="LazyLoadingViolationException.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612620000000" Dst="2" />
+<file name="LICENSE.md" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612620000000" Dst="2" />
+<file name="MigrationServiceProvider.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612670000000" Dst="2" />
+<file name="MultipleRecordsFoundException.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612670000000" Dst="2" />
+<file name="MySqlConnection.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612670000000" Dst="2" />
+<file name="PostgresConnection.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612720000000" Dst="2" />
+<file name="QueryException.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612790000000" Dst="2" />
+<file name="README.md" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612790000000" Dst="2" />
+<file name="RecordsNotFoundException.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612800000000" Dst="2" />
+<file name="Seeder.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034612920000000" Dst="2" />
+<file name="SQLiteConnection.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612930000000" Dst="2" />
+<file name="SqlServerConnection.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034612930000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractDumper.php" server="access916539848.webspace-data.io//webzero/" local="133033359388552383" remote="133034618300000000" Dst="2" />
+<file name="CliDumper.php" server="access916539848.webspace-data.io//webzero/" local="133033359388552383" remote="133034618310000000" Dst="2" />
+<file name="ContextualizedDumper.php" server="access916539848.webspace-data.io//webzero/" local="133033359388562384" remote="133034618380000000" Dst="2" />
+<file name="DataDumperInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388562384" remote="133034618380000000" Dst="2" />
+<file name="HtmlDumper.php" server="access916539848.webspace-data.io//webzero/" local="133033359388572385" remote="133034618390000000" Dst="2" />
+<file name="ServerDumper.php" server="access916539848.webspace-data.io//webzero/" local="133033359388572385" remote="133034618390000000" Dst="2" />
+</dwsync>

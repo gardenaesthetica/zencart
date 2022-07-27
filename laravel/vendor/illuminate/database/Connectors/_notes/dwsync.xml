@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionFactory.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612150000000" Dst="2" />
+<file name="Connector.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612160000000" Dst="2" />
+<file name="ConnectorInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612160000000" Dst="2" />
+<file name="MySqlConnector.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612160000000" Dst="2" />
+<file name="PostgresConnector.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612160000000" Dst="2" />
+<file name="SQLiteConnector.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612170000000" Dst="2" />
+<file name="SqlServerConnector.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612170000000" Dst="2" />
+</dwsync>

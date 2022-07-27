@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateServiceProvider.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034613140000000" Dst="2" />
+<file name="Carbon.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034613140000000" Dst="2" />
+<file name="composer.json" server="access916539848.webspace-data.io//webzero/" local="133033359385531492" remote="133034613140000000" Dst="2" />
+<file name="Composer.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034613140000000" Dst="2" />
+<file name="ConfigurationUrlParser.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034613150000000" Dst="2" />
+<file name="DateFactory.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034613150000000" Dst="2" />
+<file name="Env.php" server="access916539848.webspace-data.io//webzero/" local="133033359385218993" remote="133034613150000000" Dst="2" />
+<file name="Fluent.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613270000000" Dst="2" />
+<file name="helpers.php" server="access916539848.webspace-data.io//webzero/" local="133033359385531492" remote="133034613270000000" Dst="2" />
+<file name="HigherOrderTapProxy.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613270000000" Dst="2" />
+<file name="HtmlString.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613270000000" Dst="2" />
+<file name="InteractsWithTime.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613280000000" Dst="2" />
+<file name="Js.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613280000000" Dst="2" />
+<file name="LICENSE.md" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613280000000" Dst="2" />
+<file name="Manager.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613280000000" Dst="2" />
+<file name="MessageBag.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613290000000" Dst="2" />
+<file name="MultipleInstanceManager.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613290000000" Dst="2" />
+<file name="NamespacedItemResolver.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613290000000" Dst="2" />
+<file name="Optional.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613290000000" Dst="2" />
+<file name="Pluralizer.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613300000000" Dst="2" />
+<file name="ProcessUtils.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613300000000" Dst="2" />
+<file name="Reflector.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613300000000" Dst="2" />
+<file name="ServiceProvider.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613300000000" Dst="2" />
+<file name="Str.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613310000000" Dst="2" />
+<file name="Stringable.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613310000000" Dst="2" />
+<file name="ValidatedInput.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613380000000" Dst="2" />
+<file name="ViewErrorBag.php" server="access916539848.webspace-data.io//webzero/" local="133033359385375251" remote="133034613390000000" Dst="2" />
+</dwsync>

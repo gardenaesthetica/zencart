@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612220000000" Dst="2" />
+<file name="FreshCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612220000000" Dst="2" />
+<file name="InstallCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612230000000" Dst="2" />
+<file name="MigrateCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612230000000" Dst="2" />
+<file name="MigrateMakeCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612230000000" Dst="2" />
+<file name="RefreshCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612230000000" Dst="2" />
+<file name="ResetCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612240000000" Dst="2" />
+<file name="RollbackCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612240000000" Dst="2" />
+<file name="StatusCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612240000000" Dst="2" />
+<file name="TableGuesser.php" server="access916539848.webspace-data.io//webzero/" local="133033359384750236" remote="133034612240000000" Dst="2" />
+</dwsync>

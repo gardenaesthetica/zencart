@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388242390" remote="133034617720000000" Dst="2" />
+<file name="IncompleteDsnException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388242390" remote="133034617720000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388242390" remote="133034617720000000" Dst="2" />
+<file name="InvalidResourceException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388242390" remote="133034617730000000" Dst="2" />
+<file name="LogicException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388252390" remote="133034617730000000" Dst="2" />
+<file name="MissingRequiredOptionException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388252390" remote="133034617730000000" Dst="2" />
+<file name="NotFoundResourceException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388252390" remote="133034617730000000" Dst="2" />
+<file name="ProviderException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388252390" remote="133034617740000000" Dst="2" />
+<file name="ProviderExceptionInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388252390" remote="133034617740000000" Dst="2" />
+<file name="RuntimeException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388262390" remote="133034617740000000" Dst="2" />
+<file name="UnsupportedSchemeException.php" server="access916539848.webspace-data.io//webzero/" local="133033359388262390" remote="133034617740000000" Dst="2" />
+</dwsync>

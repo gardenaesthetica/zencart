@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BelongsTo.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612470000000" Dst="2" />
+<file name="BelongsToMany.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612470000000" Dst="2" />
+<file name="HasMany.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612510000000" Dst="2" />
+<file name="HasManyThrough.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612510000000" Dst="2" />
+<file name="HasOne.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612510000000" Dst="2" />
+<file name="HasOneOrMany.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612510000000" Dst="2" />
+<file name="HasOneThrough.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612520000000" Dst="2" />
+<file name="MorphMany.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612520000000" Dst="2" />
+<file name="MorphOne.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612520000000" Dst="2" />
+<file name="MorphOneOrMany.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612520000000" Dst="2" />
+<file name="MorphPivot.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612530000000" Dst="2" />
+<file name="MorphTo.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612530000000" Dst="2" />
+<file name="MorphToMany.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612530000000" Dst="2" />
+<file name="Pivot.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612530000000" Dst="2" />
+<file name="Relation.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612540000000" Dst="2" />
+</dwsync>

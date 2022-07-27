@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionEvent.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612560000000" Dst="2" />
+<file name="DatabaseRefreshed.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612570000000" Dst="2" />
+<file name="MigrationEnded.php" server="access916539848.webspace-data.io//webzero/" local="133033359384906477" remote="133034612570000000" Dst="2" />
+<file name="MigrationEvent.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612570000000" Dst="2" />
+<file name="MigrationsEnded.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612570000000" Dst="2" />
+<file name="MigrationsEvent.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612580000000" Dst="2" />
+<file name="MigrationsStarted.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612580000000" Dst="2" />
+<file name="MigrationStarted.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612580000000" Dst="2" />
+<file name="ModelsPruned.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612580000000" Dst="2" />
+<file name="NoPendingMigrations.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612590000000" Dst="2" />
+<file name="QueryExecuted.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612590000000" Dst="2" />
+<file name="SchemaDumped.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612590000000" Dst="2" />
+<file name="SchemaLoaded.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612590000000" Dst="2" />
+<file name="StatementPrepared.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612600000000" Dst="2" />
+<file name="TransactionBeginning.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612600000000" Dst="2" />
+<file name="TransactionCommitted.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612600000000" Dst="2" />
+<file name="TransactionRolledBack.php" server="access916539848.webspace-data.io//webzero/" local="133033359385062720" remote="133034612600000000" Dst="2" />
+</dwsync>

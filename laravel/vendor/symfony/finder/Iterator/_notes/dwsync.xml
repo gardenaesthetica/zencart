@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387852375" remote="133034616870000000" Dst="2" />
+<file name="DateRangeFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387852375" remote="133034616870000000" Dst="2" />
+<file name="DepthRangeFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387852375" remote="133034616880000000" Dst="2" />
+<file name="ExcludeDirectoryFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387862374" remote="133034616880000000" Dst="2" />
+<file name="FilecontentFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387862374" remote="133034616880000000" Dst="2" />
+<file name="FilenameFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387862374" remote="133034616880000000" Dst="2" />
+<file name="FileTypeFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387862374" remote="133034616890000000" Dst="2" />
+<file name="LazyIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387872373" remote="133034616890000000" Dst="2" />
+<file name="MultiplePcreFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387872373" remote="133034616890000000" Dst="2" />
+<file name="PathFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387872373" remote="133034616890000000" Dst="2" />
+<file name="RecursiveDirectoryIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387872373" remote="133034616900000000" Dst="2" />
+<file name="SizeRangeFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387872373" remote="133034616900000000" Dst="2" />
+<file name="SortableIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387882377" remote="133034616900000000" Dst="2" />
+<file name="VcsIgnoredFilterIterator.php" server="access916539848.webspace-data.io//webzero/" local="133033359387882377" remote="133034616900000000" Dst="2" />
+</dwsync>

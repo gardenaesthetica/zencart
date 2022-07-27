@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Command.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616250000000" Dst="2" />
+<file name="CompleteCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616250000000" Dst="2" />
+<file name="DumpCompletionCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616260000000" Dst="2" />
+<file name="HelpCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616260000000" Dst="2" />
+<file name="LazyCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616260000000" Dst="2" />
+<file name="ListCommand.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616260000000" Dst="2" />
+<file name="LockableTrait.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616270000000" Dst="2" />
+<file name="SignalableCommandInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359387406483" remote="133034616270000000" Dst="2" />
+</dwsync>

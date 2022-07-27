@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388292390" remote="133034617810000000" Dst="2" />
+<file name="CsvFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388292390" remote="133034617820000000" Dst="2" />
+<file name="FileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388292390" remote="133034617820000000" Dst="2" />
+<file name="IcuDatFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388302395" remote="133034617820000000" Dst="2" />
+<file name="IcuResFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388302395" remote="133034617820000000" Dst="2" />
+<file name="IniFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388302395" remote="133034617830000000" Dst="2" />
+<file name="JsonFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388312399" remote="133034617830000000" Dst="2" />
+<file name="LoaderInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388312399" remote="133034617830000000" Dst="2" />
+<file name="MoFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388312399" remote="133034617830000000" Dst="2" />
+<file name="PhpFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388322395" remote="133034617840000000" Dst="2" />
+<file name="PoFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388322395" remote="133034617840000000" Dst="2" />
+<file name="QtFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388322395" remote="133034617840000000" Dst="2" />
+<file name="XliffFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388322395" remote="133034617840000000" Dst="2" />
+<file name="YamlFileLoader.php" server="access916539848.webspace-data.io//webzero/" local="133033359388322395" remote="133034617850000000" Dst="2" />
+</dwsync>

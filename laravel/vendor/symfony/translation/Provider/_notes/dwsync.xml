@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractProviderFactory.php" server="access916539848.webspace-data.io//webzero/" local="133033359388342417" remote="133034617870000000" Dst="2" />
+<file name="Dsn.php" server="access916539848.webspace-data.io//webzero/" local="133033359388342417" remote="133034617880000000" Dst="2" />
+<file name="FilteringProvider.php" server="access916539848.webspace-data.io//webzero/" local="133033359388342417" remote="133034617880000000" Dst="2" />
+<file name="NullProvider.php" server="access916539848.webspace-data.io//webzero/" local="133033359388352393" remote="133034617880000000" Dst="2" />
+<file name="NullProviderFactory.php" server="access916539848.webspace-data.io//webzero/" local="133033359388352393" remote="133034617890000000" Dst="2" />
+<file name="ProviderFactoryInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388352393" remote="133034617890000000" Dst="2" />
+<file name="ProviderInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388352393" remote="133034617890000000" Dst="2" />
+<file name="TranslationProviderCollection.php" server="access916539848.webspace-data.io//webzero/" local="133033359388362388" remote="133034617890000000" Dst="2" />
+<file name="TranslationProviderCollectionFactory.php" server="access916539848.webspace-data.io//webzero/" local="133033359388362388" remote="133034617900000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="access916539848.webspace-data.io//webzero/" local="133033359388172386" remote="133034617590000000" Dst="2" />
+<file name="composer.json" server="access916539848.webspace-data.io//webzero/" local="133033359388422387" remote="133034617620000000" Dst="2" />
+<file name="DataCollectorTranslator.php" server="access916539848.webspace-data.io//webzero/" local="133033359388202392" remote="133034617640000000" Dst="2" />
+<file name="IdentityTranslator.php" server="access916539848.webspace-data.io//webzero/" local="133033359388282386" remote="133034617800000000" Dst="2" />
+<file name="LICENSE" server="access916539848.webspace-data.io//webzero/" local="133033359388282386" remote="133034617800000000" Dst="2" />
+<file name="LoggingTranslator.php" server="access916539848.webspace-data.io//webzero/" local="133033359388332392" remote="133034617860000000" Dst="2" />
+<file name="MessageCatalogue.php" server="access916539848.webspace-data.io//webzero/" local="133033359388332392" remote="133034617860000000" Dst="2" />
+<file name="MessageCatalogueInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388332392" remote="133034617860000000" Dst="2" />
+<file name="MetadataAwareInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388332392" remote="133034617870000000" Dst="2" />
+<file name="PseudoLocalizationTranslator.php" server="access916539848.webspace-data.io//webzero/" local="133033359388362388" remote="133034617910000000" Dst="2" />
+<file name="README.md" server="access916539848.webspace-data.io//webzero/" local="133033359388362388" remote="133034617930000000" Dst="2" />
+<file name="TranslatableMessage.php" server="access916539848.webspace-data.io//webzero/" local="133033359388402391" remote="133034618010000000" Dst="2" />
+<file name="Translator.php" server="access916539848.webspace-data.io//webzero/" local="133033359388402391" remote="133034618010000000" Dst="2" />
+<file name="TranslatorBag.php" server="access916539848.webspace-data.io//webzero/" local="133033359388402391" remote="133034618020000000" Dst="2" />
+<file name="TranslatorBagInterface.php" server="access916539848.webspace-data.io//webzero/" local="133033359388412391" remote="133034618020000000" Dst="2" />
+</dwsync>
