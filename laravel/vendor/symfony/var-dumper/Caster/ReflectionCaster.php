@@ -42,7 +42,7 @@ class ReflectionCaster
 
         $a = static::castFunctionAbstract($c, $a, $stub, $isNested, $filter);
 
-        if (!str_contains($c->name, '{closure}')) {
+        if (false === strpos($c->name, '{closure}')) {
             $stub->class = isset($a[$prefix.'class']) ? $a[$prefix.'class']->value.'::'.$c->name : $c->name;
             unset($a[$prefix.'class']);
         }
@@ -102,7 +102,7 @@ class ReflectionCaster
                 $prefix.'allowsNull' => $c->allowsNull(),
                 $prefix.'isBuiltin' => $c->isBuiltin(),
             ];
-        } elseif ($c instanceof \ReflectionUnionType || $c instanceof \ReflectionIntersectionType) {
+        } elseif ($c instanceof \ReflectionUnionType) {
             $a[$prefix.'allowsNull'] = $c->allowsNull();
             self::addMap($a, $c, [
                 'types' => 'getTypes',
@@ -144,7 +144,7 @@ class ReflectionCaster
             array_unshift($trace, [
                 'function' => 'yield',
                 'file' => $function->getExecutingFile(),
-                'line' => $function->getExecutingLine() - (int) (\PHP_VERSION_ID < 80100),
+                'line' => $function->getExecutingLine() - 1,
             ]);
             $trace[] = $frame;
             $a[$prefix.'trace'] = new TraceStub($trace, false, 0, -1, -1);
@@ -289,17 +289,15 @@ class ReflectionCaster
             unset($a[$prefix.'allowsNull']);
         }
 
-        if ($c->isOptional()) {
-            try {
-                $a[$prefix.'default'] = $v = $c->getDefaultValue();
-                if ($c->isDefaultValueConstant()) {
-                    $a[$prefix.'default'] = new ConstStub($c->getDefaultValueConstantName(), $v);
-                }
-                if (null === $v) {
-                    unset($a[$prefix.'allowsNull']);
-                }
-            } catch (\ReflectionException $e) {
+        try {
+            $a[$prefix.'default'] = $v = $c->getDefaultValue();
+            if ($c->isDefaultValueConstant()) {
+                $a[$prefix.'default'] = new ConstStub($c->getDefaultValueConstantName(), $v);
             }
+            if (null === $v) {
+                unset($a[$prefix.'allowsNull']);
+            }
+        } catch (\ReflectionException $e) {
         }
 
         return $a;
@@ -383,11 +381,9 @@ class ReflectionCaster
                 } elseif (\is_array($v)) {
                     $signature .= $v ? '[…'.\count($v).']' : '[]';
                 } elseif (\is_string($v)) {
-                    $signature .= 10 > \strlen($v) && !str_contains($v, '\\') ? "'{$v}'" : "'…".\strlen($v)."'";
+                    $signature .= 10 > \strlen($v) && false === strpos($v, '\\') ? "'{$v}'" : "'…".\strlen($v)."'";
                 } elseif (\is_bool($v)) {
                     $signature .= $v ? 'true' : 'false';
-                } elseif (\is_object($v)) {
-                    $signature .= 'new '.substr(strrchr('\\'.get_debug_type($v), '\\'), 1);
                 } else {
                     $signature .= $v;
                 }
