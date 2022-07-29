@@ -2487,15 +2487,15 @@ class Builder
     {
         $this->enforceOrderBy();
 
-        return collect($this->orders ?? $this->unionOrders ?? [])->filter(function ($order) {
-            return Arr::has($order, 'direction');
-        })->when($shouldReverse, function (Collection $orders) {
-            return $orders->map(function ($order) {
+        if ($shouldReverse) {
+            $this->orders = collect($this->orders)->map(function ($order) {
                 $order['direction'] = $order['direction'] === 'asc' ? 'desc' : 'asc';
 
                 return $order;
-            });
-        })->values();
+            })->toArray();
+        }
+
+        return collect($this->orders);
     }
 
     /**
